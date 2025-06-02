@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/in1md/static/js/main.c2c68fe1.js",
-    "index.html": "/in1md/index.html",
-    "main.c2c68fe1.js.map": "/in1md/static/js/main.c2c68fe1.js.map"
+    "main.js": "/static/js/main.c2c68fe1.js",
+    "index.html": "/index.html",
+    "main.c2c68fe1.js.map": "/static/js/main.c2c68fe1.js.map"
   },
   "entrypoints": [
     "static/js/main.c2c68fe1.js"
